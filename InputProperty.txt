@@ -1,0 +1,9 @@
+2 3 Tope_Akinwale 6_Castlegate_Mews_Adamstown 150 3 4 3 300 3
+2 2 Nikolaj_Jasenko 5_Castlegate_Mews_Blanch 200 4 4 4 300 3
+2 1 Youseff_Mourad 17_Finnstown_Avenue 150 3 3 3 100 3
+3 8 Kamil_Cierpisz 18_Portloaise_crescent 650 4 7 30 12 3
+3 9 James_Martin 24_Belfield_walk 550 3 5 30 12 2
+1 6 John_Hughes 25_Christchurch_park 500 2 3 2
+1 5 Lucas_Peterson 5_Kilmartin_Road 600 3 3 1
+3 7 Mohammad_Basha 9_Castlerida_drive 550 3 5 30 12 4
+1 4 Peter_Odemwingie 17_Ashpark_Grove 500 2 3 1
